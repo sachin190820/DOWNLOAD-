@@ -1,5 +1,5 @@
 const downloadBtn = document.querySelector(".download-btn");
-const fileLink = "https://drive.google.com/uc?export=download&id=1aYiaLn3YOjL-_o5QBCy7tU1epqA6gZoi";
+const fileLink = "https://drive.google.com/uc?export=download&id=1pzZa-QtPK9wsqGGAi3uHyqydZSn_zFQY";
 
 // file id =https://drive.google.com/uc?export=download&id=
 const initTimer = () => {
